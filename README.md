@@ -23,10 +23,3 @@ no of attendies show to user
 // pending 
 event Notification
 
-
-
-// vercel front end link
-[https://swiftrut-task-4-mz1q.vercel.app/](https://swiftrut-task-4-mz1q.vercel.app/)
-
-// vercel backend link
-https://swiftrut-task-4.onrender.com
