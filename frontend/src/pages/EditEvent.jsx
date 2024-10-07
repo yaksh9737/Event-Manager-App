@@ -160,7 +160,7 @@ const EditEvent = () => {
           type="submit"
           className="bg-[#0099ff] w-full py-2 text-white relative overflow-hidden z-30 group hover:bg-sky-800 transition-all duration-500 rounded tracking-wider font-semibold"
         >
-          Create Event <i className="fa-solid fa-arrow-up-right-from-square"></i>
+          Update Event <i className="fa-solid fa-arrow-up-right-from-square"></i>
           <svg
             class="absolute inset-0 left-0 top-0 fill-sky-300 -z-30 opacity-0 group-hover:opacity-100 group-hover:duration-300 group-hover:transition-all group-active:fill-sky-950"
             preserveAspectRatio="xMidYMid meet"
